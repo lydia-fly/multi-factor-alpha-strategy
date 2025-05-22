@@ -1,8 +1,5 @@
 ## 🧠 Appendix: Institutional vs. Retail Use of the Fama-French Model
 
-Let's think about how those professional financial institutions use FF model.
-
-
 This table summarizes the key differences between how professional institutions and retail investors apply the Fama-French factor model in practice.
 
 | Dimension          | Retail Investors                                  | Professional Institutions                                                 |
